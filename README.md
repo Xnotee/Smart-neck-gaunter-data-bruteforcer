@@ -6,5 +6,7 @@ Used for method testing and collecting result cells with alldata.mat which can't
 For making the non-swallow class equal with swallows by randomly picking same amount of samples.
 # evaluate_detector.m
 For calculating the accuracy metrics.
+# splitSlidingWindow.m
+Splitting raw measure data for window sized samples.
 # tune_svm_model.m
 To brute-force forking the parameters of support vector machine
